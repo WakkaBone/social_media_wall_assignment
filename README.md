@@ -4,6 +4,7 @@ This project is an example of social network's mini wall. Authenticated users ar
 Administrator has access to the admin panel, where he can view all the posts created by all users and delete them. For each post he can see a chart with statistics on number of likes per day.
 
 **Admin's credentials**: username - Admin, email - admin@gmail.com, password - qwerty.
+
 **User's credentials**: username - User, email - user@gmail.com, password - qwerty.
 
 Project is written on **ReactJs**.
