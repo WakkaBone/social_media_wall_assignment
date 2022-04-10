@@ -8,11 +8,19 @@ Administrator has access to the admin panel, where he can view all the posts cre
 **User's credentials**: username - User, email - user@gmail.com, password - qwerty.
 
 Project is written on **ReactJs**.
+
 State management: **Redux**.
+
 Styles: **CSS-In-JS (Styled-Components)**.
+
 Form validation: **Formik**.
+
 Authentication: **JsonWebToken** (JWT) and **BcryptJs**.
+
 Database and server side: **Firebase**.
+
 Infographics: **React-Charts-D3**.
 
 run **npm start** to launch the project
+
+Deployed version: https://spectacular-khapse-fb3e92.netlify.app/
